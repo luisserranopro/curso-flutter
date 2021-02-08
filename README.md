@@ -10,3 +10,4 @@
 
 - 5.HolaMundo: primer ejemplo, uso básico de widgets
 - 7.FichaProducto: Diseño y programación de una app básica que muesta una ficha de un producto
+- 8.ListadoProductos: Diseño y programación de una app básica que muesta un listado de las fichas de producto programadas en el punto anterior
