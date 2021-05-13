@@ -81,9 +81,31 @@ class FichaProducto extends StatelessWidget {
           )
       ),
       onTap: (){
-        final snackBar = SnackBar(content: Text(this.nombre),);
-        Scaffold.of(context).showSnackBar(snackBar);
+        Navigator.push(context, MaterialPageRoute(builder:(context)=> ProductoDetalle(nombre: this.nombre,descripcion: this.descripcion,precio: this.precio,imagen: this.imagen)));
       },
+    );
+  }
+}
+
+class ProductoDetalle extends StatelessWidget {
+
+  final String nombre;
+  final String descripcion;
+  final int precio;
+  final String imagen;
+
+   ProductoDetalle({ @required this.nombre, @required this.descripcion, @required this.precio, @required this.imagen}): super();
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+          title: Text(this.nombre)
+      ),
+       body:  Center(
+           child:
+           Text(this.nombre))
+
     );
   }
 }

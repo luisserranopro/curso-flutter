@@ -77,7 +77,7 @@ class FichaProducto extends StatelessWidget {
                 )
               ],
             )
-        )
+        ),
     );
   }
 }

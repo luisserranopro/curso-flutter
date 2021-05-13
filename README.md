@@ -13,3 +13,7 @@
 - 8.ListadoProductos: Diseño y programación de una app básica que muesta un listado de las fichas de producto programadas en el punto anterior
 - 9.GestureProductos: Basándonos en el anterior ejemplo le añadimos que reaccione a eventos del usuario
 - 10.Lista Tareas: lista de tareas simple que permite eliminar los elementos descartándolos.
+- 11.Navigation: Ejemplos básico de navegación
+- 12.Maestro Detalle: App con estructura maestro-detalle, en la que se muestra un listado de artículos y al pulsar sobre uno de ellos se amplía.
+- 13.ListaTareas: App de lista de tareas, que permite añadir tareas personalizadas, modificación y eliminación.
+
