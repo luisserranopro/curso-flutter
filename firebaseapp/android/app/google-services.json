@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1080188526037",
+    "project_id": "fir-ejemplo-9936d",
+    "storage_bucket": "fir-ejemplo-9936d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080188526037:android:f2418bf12ed662e4bcb15c",
+        "android_client_info": {
+          "package_name": "pro.luisserrano.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080188526037-j8n7ccttvsnjl8v0fm2tndoknk31mhlh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxsa3LZyIMOmvzaPLa8cgdhkHjCcuj5og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080188526037-j8n7ccttvsnjl8v0fm2tndoknk31mhlh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
