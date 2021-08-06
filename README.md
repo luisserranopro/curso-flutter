@@ -18,3 +18,4 @@
 - 13.ListaTareas: App de lista de tareas, que permite añadir tareas personalizadas, modificación y eliminación.
 - 17.SQLite: Gestión de animales en una base de datos SQLite
 - 18.TheMovieDB: Consumir una API (themoviedb.com) mediante el uso FutureBuilder
+- 19.FirebaseApp: Uso de Firebase Auth

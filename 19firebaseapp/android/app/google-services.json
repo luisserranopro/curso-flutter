@@ -7,12 +7,20 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1080188526037:android:f2418bf12ed662e4bcb15c",
+        "mobilesdk_app_id": "1:1080188526037:android:5f1758a58f00be9cbcb15c",
         "android_client_info": {
-          "package_name": "pro.luisserrano.firebaseapp"
+          "package_name": "pro.luisserrano.firebaseapp.firebaseapp"
         }
       },
       "oauth_client": [
+        {
+          "client_id": "1080188526037-phd4cplv3h2fjlqi3ojrttvpqf4bijhb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pro.luisserrano.firebaseapp.firebaseapp",
+            "certificate_hash": "c93d0ccbbc6a82f5e05683467746a80798bc68cb"
+          }
+        },
         {
           "client_id": "1080188526037-j8n7ccttvsnjl8v0fm2tndoknk31mhlh.apps.googleusercontent.com",
           "client_type": 3
@@ -29,6 +37,13 @@
             {
               "client_id": "1080188526037-j8n7ccttvsnjl8v0fm2tndoknk31mhlh.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "1080188526037-fmuspp2u2kj0jjg0iu6mtkfdpbaa8r71.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "pro.luisserrano.firebaseapp.firebaseapp"
+              }
             }
           ]
         }
