@@ -19,3 +19,6 @@
 - 17.SQLite: Gestión de animales en una base de datos SQLite
 - 18.TheMovieDB: Consumir una API (themoviedb.com) mediante el uso FutureBuilder
 - 19.FirebaseApp: Uso de Firebase Auth
+- 20.Chat: Ejemplo de un chat básico haciendo uso de Firebase Realtime Database
+- 21.Hive: Uso de una base de datos NoSQL Hive
+- 22.SharedPreferences: Almacenamiento de ajustes en Shared Preferences
