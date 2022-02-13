@@ -22,3 +22,5 @@
 - 20.Chat: Ejemplo de un chat básico haciendo uso de Firebase Realtime Database
 - 21.Hive: Uso de una base de datos NoSQL Hive
 - 22.SharedPreferences: Almacenamiento de ajustes en Shared Preferences
+- 23.MongoDB: Almacenamiento en una base de datos NoSQL MongoDB
+- 24.GoogleMaps: Primer ejemplo de uso de Google Maps, inserción de mapa
