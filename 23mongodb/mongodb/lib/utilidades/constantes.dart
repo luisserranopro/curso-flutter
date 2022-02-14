@@ -1,2 +1,2 @@
-const CONEXION = "mongodb+srv://luisserrano:mongodb@cluster0.znpbr.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
+const CONEXION = "SUSTITUYE_POR_LA_CONEXION_A_TU_BASE_DE_DATOS_MONGODB";
 const COLECCION = "jugadores";
