@@ -24,3 +24,4 @@
 - 22.SharedPreferences: Almacenamiento de ajustes en Shared Preferences
 - 23.MongoDB: Almacenamiento en una base de datos NoSQL MongoDB
 - 24.GoogleMaps: Primer ejemplo de uso de Google Maps, inserción de mapa
+- 25.GoogleMapas: Ampliación del ejemplo anterior con clicks sobre mapas y aimaciones

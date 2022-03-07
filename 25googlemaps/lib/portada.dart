@@ -1,7 +1,9 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
+import 'package:googlemaps/click.dart';
 import 'package:googlemaps/mapa.dart';
+import 'package:googlemaps/animaciones.dart';
 
 class DrawerItem {
   String title;
@@ -13,6 +15,8 @@ class DrawerItem {
 class Portada extends StatefulWidget {
   final drawerItems = [
     new DrawerItem("Mapa UI", Icons.map),
+    new DrawerItem("Click", Icons.mouse),
+    new DrawerItem("Animaciones", Icons.animation)
   ];
 
   @override
@@ -27,7 +31,10 @@ class PortadaState extends State<Portada> {
     switch (posicion) {
       case 0:
         return new Mapa();
-
+      case 1:
+        return new ClickPagina();
+      case 2:
+        return AnimacionesPagina();
       default:
         return new Text("Error");
     }
