@@ -23,5 +23,6 @@
 - 21.Hive: Uso de una base de datos NoSQL Hive
 - 22.SharedPreferences: Almacenamiento de ajustes en Shared Preferences
 - 23.MongoDB: Almacenamiento en una base de datos NoSQL MongoDB
-- 24.GoogleMaps: Primer ejemplo de uso de Google Maps, inserción de mapa
-- 25.GoogleMapas: Ampliación del ejemplo anterior con clicks sobre mapas y aimaciones
+- 24.GoogleMaps: Uso de mapas en Google Maps
+- 25.GoogleMaps: Clicks y aimaciones en Google Maps
+- 26.GoogleMaps: Marcadores en Google Maps
